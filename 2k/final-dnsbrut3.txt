@@ -797,3 +797,4 @@ nexus.2kcoretech.online
 drm2.2k.com
 drm.2k.com
 drm1.2k.com
+wwesupercard.2k.com
